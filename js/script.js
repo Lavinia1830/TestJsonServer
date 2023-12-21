@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 //Funzione per vedere nella console gli oggetti 
 const getAll = () => {
-    fetch(url)
+    fetch(url + 'users')
     .then(response => response.json())
     .then(json => console.log(json))
     .catch(err => console.log(err));
@@ -42,6 +42,7 @@ function singUp (){
         email: email,
         password: password
     }
+
     fetch(url + 'users', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
@@ -65,13 +66,13 @@ const update = (id) => {
             .then(response => response.json())
             
     })
-}
+} 
 
 
 
-function login (){
-    let email = document.querySelector('#email').value;
-    let password = document.querySelector('#password').value;
+ function login (){
+    let email = document.querySelector('#email').value.trim();
+    let password = document.querySelector('#password').value.trim();
 
     let obj = {
         email: email,

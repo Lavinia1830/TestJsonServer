@@ -146,6 +146,34 @@
       "name": "mario",
       "lastName": "brandi",
       "id": 21
+    },
+    {
+      "email": "myqocyn@mailinator.com",
+      "password": "$2a$10$KJO3cUhmz0nV6EzMEAaYu.bERFts.Jqxy0OOAN8uXiOYgmGLZgHx6",
+      "name": "Xavier Burris",
+      "lastName": "Vinson",
+      "id": 22
+    },
+    {
+      "email": "rurizeta@mailinator.com",
+      "password": "$2a$10$oFJl45TKcVaXTmzPYE3YmOXjypaSmh02ppX.iNiTIQlvsV3Eddwf2",
+      "name": "Linda Bush",
+      "lastName": "Lamb",
+      "id": 23
+    },
+    {
+      "email": "xygoqi@mailinator.com",
+      "password": "$2a$10$Z4BCyTXK2xqOzAxFZIMwOuyfWVOTn8yOyNKlz11UbqWtJQvYLH53u",
+      "name": "Jolene Nixon",
+      "lastName": "Vega",
+      "id": 24
+    },
+    {
+      "email": "nagiwym@mailinator.com",
+      "password": "$2a$10$hfdUQ.9JeYv9iVMgH3.Fyu1kSbtG3r6Q9kuNojQj4bKTsnCfgibHm",
+      "name": "Nicholas Coleman",
+      "lastName": "Cameron",
+      "id": 25
     }
   ]
 }
