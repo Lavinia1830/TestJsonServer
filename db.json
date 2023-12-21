@@ -20,6 +20,132 @@
       "name": "Lavinia",
       "lastName": "Baratti",
       "id": 3
+    },
+    {
+      "email": "maria.baratti@gmail.com",
+      "password": "$2a$10$KU4RhRohtqijeLh3mc6Gke9uskiPM2vU0Q6H6pTSfJ8//X5qN5EQa",
+      "name": "Maria",
+      "lastName": "Baratti",
+      "id": 4
+    },
+    {
+      "email": "mario.rossi@tg.it",
+      "password": "$2a$10$tcJZEBhv0kS2dCkh9JRBmOC/jAcBtg.IuABiybg2GtJLckRvLHpDO",
+      "name": "Mario",
+      "lastName": "Rossi",
+      "id": 5
+    },
+    {
+      "email": "m.v@gmail.com",
+      "password": "$2a$10$gfTYVxpX8gHS7hoYPo8n0O.urpz07tx1947KfLT4z7bYbLD7HsfXe",
+      "name": "Maria",
+      "lastName": "verdi",
+      "id": 6
+    },
+    {
+      "email": "m.g@gmail.com",
+      "password": "$2a$10$K8ucZof9kMBfFvW1suLpfO0xhbV/jCATwsa505Fp.oUnN5cvI21em",
+      "name": "monica",
+      "lastName": "gallo",
+      "id": 7
+    },
+    {
+      "email": "c.c@fd.com",
+      "password": "$2a$10$GWDdsj7PLboN5fHW1N6x8eCIOKWMHhL5UzA8hplT9WWEVmKFBLkU2",
+      "name": "cristoforo",
+      "lastName": "colombo",
+      "id": 8
+    },
+    {
+      "email": "poi.kjhh@th.vg",
+      "password": "$2a$10$eQYhloKb2bsThciJBaNUge1/fe1sLYPF7mwt4BP/nRSNv3Jtn9Nla",
+      "name": "lk",
+      "lastName": "io",
+      "id": 9
+    },
+    {
+      "email": "rtfgc.vyh@gy.by",
+      "password": "$2a$10$4pJ16Xy8NLyRJITtYluTxe8yqiZf4EPbvDjLeuOsxqVVMX6D/fdTe",
+      "name": "poi",
+      "lastName": "dgthv",
+      "id": 10
+    },
+    {
+      "email": "l.b@gmail.com",
+      "password": "$2a$10$4P.ke96Apm.PfD3HFk3yR.KPjobmtudSOOqzW4Va4K38c34P5n4zG",
+      "name": "Lavinia",
+      "lastName": "Baratti",
+      "id": 11
+    },
+    {
+      "email": "hunyly@mailinator.com",
+      "password": "$2a$10$aaD2vJFhSmUwHJ44fYjy2OhQepznYmJ1rY0VEH4Yo9wXgmBuE4fuW",
+      "name": "Owen Mcdonald",
+      "lastName": "Hendrix",
+      "id": 12
+    },
+    {
+      "email": "xygizoxiw@mailinator.com",
+      "password": "$2a$10$v9WvR2S.sWgccESCgxvl8.kRntJQ5LWZlKfRTBdoFdE46ZVSMCQG.",
+      "name": "Dean Lopez",
+      "lastName": "Donaldson",
+      "id": 13
+    },
+    {
+      "email": "zibyfope@mailinator.com",
+      "password": "$2a$10$4ODCsadobjBymZdMsEMdC.rLk8pj2k5lTlt5Vun.cNFvVPew5E6DG",
+      "name": "Ezekiel Hill",
+      "lastName": "Michael",
+      "id": 14
+    },
+    {
+      "email": "dafaq@mailinator.com",
+      "password": "$2a$10$ItcjPvHmmkw8/CedNDWM6e3I4hAFsTGS92t4FiLEJrt5OePwtsqF2",
+      "name": "Zephania Lara",
+      "lastName": "Berger",
+      "id": 15
+    },
+    {
+      "email": "nebyrygeky@mailinator.com",
+      "password": "$2a$10$6FzPgv7C8aASsnjV2HkaquHtgcBw62gG7O26nqugn.aqi6QrRbIdi",
+      "name": "Tallulah Stark",
+      "lastName": "Dennis",
+      "id": 16
+    },
+    {
+      "email": "tubik@mailinator.com",
+      "password": "$2a$10$1JNmV9yGR66JLXSfOTBPEOzTVdZSs9ukuUJ8GZeCO3w7NebAT2fbC",
+      "name": "Colin Stanton",
+      "lastName": "Woodward",
+      "id": 17
+    },
+    {
+      "email": "nyfugo@mailinator.com",
+      "password": "$2a$10$p9agclTrlzVgXs2UHRDRUuaDKjacGgqS.yv2cXWy.dxTnCqygdbrS",
+      "name": "Keefe Logan",
+      "lastName": "Harper",
+      "id": 18
+    },
+    {
+      "email": "finigo@mailinator.com",
+      "password": "$2a$10$P.Y0penaFWOOgxI/jrAhi.lA84G1EH1X3DCsoXZNH3zkGYGNQoUjm",
+      "name": "David Bender",
+      "lastName": "Davis",
+      "id": 19
+    },
+    {
+      "email": "gyqij@mailinator.com",
+      "password": "$2a$10$07xQkYINCN091f9DTAF3JOPxb5IAmBvNsaSqYyuOn41K.PUkM9pum",
+      "name": "Sharon Mckenzie",
+      "lastName": "Leblanc",
+      "id": 20
+    },
+    {
+      "email": "m.b@gf.iu",
+      "password": "$2a$10$v9h8qfq2JBc.MHrl8Wc5jOXqNeIwZgXNPAN5GHf46zydYouO2FKnG",
+      "name": "mario",
+      "lastName": "brandi",
+      "id": 21
     }
   ]
 }
