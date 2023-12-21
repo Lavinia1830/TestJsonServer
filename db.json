@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Lavinia",
+      "surname": "Baratti",
+      "email": "la.ba@gmailo.com",
+      "password": "123456"
+    },
+    {
+      "email": "cristina.balducci@gmail.com",
+      "password": "$2a$10$dB3/uhvtbZXQtVlNoqGXxuLCuv7dWxbpJ8haRqaiBEV3TNdt401d.",
+      "name": "Cristina",
+      "lastName": "Balducci",
+      "id": 2
+    },
+    {
+      "email": "lavinia.baratti@gmail.com",
+      "password": "$2a$10$wqIK2H08NikaVydE4vs68eVUEzjx0ihkIJxA14Qnuy84xq2gwfZkW",
+      "name": "Lavinia",
+      "lastName": "Baratti",
+      "id": 3
+    }
+  ]
+}
